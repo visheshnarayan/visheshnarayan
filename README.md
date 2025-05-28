@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh Narayan Gupta</h1>
-<h3 align="center">I am a CS student @ UMD</h3>
+<h3 align="center">CS + Mathematics student @ UMD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="visheshnarayan" /> </p>
 

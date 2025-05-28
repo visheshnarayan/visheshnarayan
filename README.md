@@ -8,7 +8,7 @@
 I'm a machine learning + math student who loves turning weird ideas into code. Whether it's predicting oil market anomalies from Saudi soccer trades or decoding the expressive intent behind nonverbal vocalizations, I enjoy working on ideas that blend math, models, and impact.
 </p>
 <p>
-Specializing in NLP and LLMs, much of my work lives at the intersection of HuggingFace and PyTorch (figuring out which version of PyTorch is compatible with it 🤗) 
+Specializing in NLP and LLMs, much of my work lives at the intersection of HuggingFace and PyTorch (figuring out which version of PyTorch is compatible with my packages 🤗) 
 </p>
 
 ---

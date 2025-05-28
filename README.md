@@ -30,7 +30,7 @@ Specializing in NLP and LLMs, much of my work lives at the intersection of Huggi
 
 <h3>😄 Fun Facts</h3>
 <ul>
-  <li>🖐️ Left-handed (unless I'm debugging, then ambidextrous frustration)</li>
+  <li>🖐️ Left-handed</li>
   <li>💻 Favorite editor: Vim</li>
 </ul>
 

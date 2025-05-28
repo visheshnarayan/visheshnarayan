@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Vishesh Narayan Gupta</h1>
+<h1 align="center">Hi 👋, I'm Vishesh Gupta</h1>
 <h3 align="center">CS + Mathematics student @ UMD</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="visheshnarayan" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visheshnarayan" alt="visheshnarayan" /></a> </p>
+<h3>👨‍💻 About Me</h3>
+<p>
+I'm a machine learning + math student who loves turning weird ideas into code. Whether it's predicting oil market anomalies from Saudi soccer trades or decoding the expressive intent behind nonverbal vocalizations, I enjoy working on ideas that blend math, models, and impact.
+</p>
+<p>
+Specializing in NLP and LLMs, much of my work lives at the intersection of HuggingFace and PyTorch (figuring out which version of PyTorch is compatible with it 🤗) 
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+---
 
-- 🔭 I’m currently working on **my own website and small ML projects**
+<h3>📚 Publications</h3>
+<ul>
+  <li><strong>Sandhu, A., Narayan, V., Wajid, F., Agrawala, A.</strong> (2024). Temporal Analysis on Topics Using Word2Vec: Insights from Health and Sports News. <em>EAI PervasiveHealth</em>, Heraklion, Greece. <a href="https://doi.org/10.1007/978-3-031-85572-6_19">[DOI]</a></li>
+</ul>
 
-- 👯 I’m looking to collaborate on **websites, ML projects, or fun side projects**
+---
 
-- 👨‍💻 All of my projects are available at [github.com/visheshnarayan](github.com/visheshnarayan)
+<h3>💡 Recent Work</h3>
+<ul>
+  <li>🔬 Improving reasoning in open-source LLMs via Chain-of-Thought (CoT) induction and token bias reduction</li>
+  <li>🧬 Understanding how to generate and evaluate quality of synthetic data for fine-tuning tasks</li>
+  <li>🧠 Audio classifier for autism research using CNNs and Vision Transformers (achieved up to 95% F1-score)</li>
+  <li>📉 Trading model exploiting oil price spikes around Saudi-backed soccer transfers</li>
+</ul>
 
-- 📫 How to reach me **visheshnarayangupta@gmail.com**
+<h3>😄 Fun Facts</h3>
+<ul>
+  <li>🖐️ Left-handed (unless I'm debugging, then ambidextrous frustration)</li>
+  <li>💻 Favorite editor: Vim</li>
+</ul>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ox9SEzsdpE-TY8KX_rWqwAlcEKnFRqVw/view?usp=sharing](https://drive.google.com/file/d/1ox9SEzsdpE-TY8KX_rWqwAlcEKnFRqVw/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I am left handed!**
+<h3>📫 Contact Me</h3>
+<p>Email: <strong>visheshng24@gmail.com</strong></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/visheshng/">linkedin.com/in/visheshng</a></p>
+<p>GitHub: <a href="https://github.com/visheshnarayan">github.com/visheshnarayan</a></p>
+
+
+<h3>🔥 Projects Worth Peeking At</h3>
+<ul>
+  <li><strong><a href="https://visheshnarayan.github.io">Audio-Based Intent Classifier</a></strong> – End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
+  <li><strong>Soccer x Oil Arbitrage Strategy</strong> – Used Saudi club trades as predictive signals for oil futures, exploiting pricing inefficiencies with anomaly detection.</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

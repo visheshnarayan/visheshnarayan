@@ -5,10 +5,9 @@
 
 <h3>👨‍💻 About Me</h3>
 <p>
-I'm a machine learning + math student who loves turning weird ideas into code. Whether it's predicting oil market anomalies from Saudi soccer trades or decoding the expressive intent behind nonverbal vocalizations, I enjoy working on ideas that blend math, models, and impact.
-</p>
+I am a CS and Mathematics undergraduate at the University of Maryland, College Park. I specialize in machine learning, specifically in the NLP domain. 
 <p>
-Specializing in NLP and LLMs, much of my work lives at the intersection of HuggingFace and PyTorch (figuring out which version of PyTorch is compatible with my packages 🤗) 
+Due to this, much of my work lives at the intersection of HuggingFace and PyTorch (figuring out which version of PyTorch is compatible with my packages 🤗) 
 </p>
 
 ---
@@ -20,13 +19,13 @@ Specializing in NLP and LLMs, much of my work lives at the intersection of Huggi
 
 ---
 
-<h3>💡 Recent Work</h3>
+<h3>👁️ Projects Worth Peeking At 👁️</h3>
 <ul>
-  <li>🔬 Improving reasoning in open-source LLMs via Chain-of-Thought (CoT) induction and token bias reduction</li>
-  <li>🧬 Understanding how to generate and evaluate quality of synthetic data for fine-tuning tasks</li>
-  <li>🧠 Audio classifier for autism research using CNNs and Vision Transformers (achieved up to 95% F1-score)</li>
-  <li>📉 Trading model exploiting oil price spikes around Saudi-backed soccer transfers</li>
+  <li><strong><a href="https://learningtheunspoken.github.io">Audio-Based Intent Classifier</a></strong> – End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
+  <li><strong><a href="https://github.com/visheshnarayan/apex-index-analysis">Soccer x Oil Arbitrage Strategy</strong> – Used Saudi club trades as predictive signals for oil futures, exploiting pricing inefficiencies with anomaly detection.</li>
 </ul>
+
+---
 
 <h3>😄 Fun Facts</h3>
 <ul>
@@ -40,14 +39,6 @@ Specializing in NLP and LLMs, much of my work lives at the intersection of Huggi
 <p>Email: <strong>visheshng24@gmail.com</strong></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/visheshng/">linkedin.com/in/visheshng</a></p>
 <p>GitHub: <a href="https://github.com/visheshnarayan">github.com/visheshnarayan</a></p>
-
-
-<h3>🔥 Projects Worth Peeking At</h3>
-<ul>
-  <li><strong><a href="https://visheshnarayan.github.io">Audio-Based Intent Classifier</a></strong> – End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
-  <li><strong>Soccer x Oil Arbitrage Strategy</strong> – Used Saudi club trades as predictive signals for oil futures, exploiting pricing inefficiencies with anomaly detection.</li>
-</ul>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

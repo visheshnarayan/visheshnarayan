@@ -21,6 +21,7 @@ Due to this, much of my work lives at the intersection of HuggingFace and PyTorc
 
 <h3>👁️ Projects Worth Peeking At 👁️</h3>
 <ul>
+  <li><strong><a href="https://github.com/visheshnarayan/trends-demo">Temporal Trend Modeling using Word2Vec</a></strong> – Demo website for the methodology proposed in "Temporal Trends Analysis using Word2Vec" paper to analyze temporal trends within corpora.</li>
   <li><strong><a href="https://learningtheunspoken.github.io">Audio-Based Intent Classifier</a></strong> – End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
   <li><strong><a href="https://github.com/visheshnarayan/apex-index-analysis">Soccer x Oil Arbitrage Strategy</strong> – Used Saudi club trades as predictive signals for oil futures, exploiting pricing inefficiencies with anomaly detection.</li>
 </ul>

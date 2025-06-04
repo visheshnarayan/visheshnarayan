@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh Gupta</h1>
-<h3 align="center">CS + Mathematics student @ UMD</h3>
+<h3 align="center">CS + Mathematics + Computational Finance student @ UMD</h3>
 
 ---
 

@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vishesh Gupta</h1>
+<h1 align="center">Hi, I'm Vishesh Gupta</h1>
 <h3 align="center">CS + Mathematics + Computational Finance student @ UMD</h3>
 
 ---
 
-<h3>👨‍💻 About Me</h3>
+<h3>About Me</h3>
 <p>
 I am a CS and Mathematics undergraduate at the University of Maryland, College Park. I specialize in machine learning, specifically in the NLP domain. 
 <p>
@@ -12,14 +12,14 @@ Due to this, much of my work lives at the intersection of HuggingFace and PyTorc
 
 ---
 
-<h3>📚 Publications</h3>
+<h3>Publications</h3>
 <ul>
   <li><strong>Sandhu, A., Narayan, V., Wajid, F., Agrawala, A.</strong> (2024). Temporal Analysis on Topics Using Word2Vec: Insights from Health and Sports News. <em>EAI PervasiveHealth</em>, Heraklion, Greece. <a href="https://doi.org/10.1007/978-3-031-85572-6_19">[DOI]</a></li>
 </ul>
 
 ---
 
-<h3>👁️ Projects Worth Peeking At 👁️</h3>
+<h3>Projects Worth Peeking At 👁️</h3>
 <ul>
   <li><strong><a href="https://github.com/visheshnarayan/trends-demo">Temporal Trend Modeling using Word2Vec</a></strong> – Demo website for the methodology proposed in "Temporal Trends Analysis using Word2Vec" paper to analyze temporal trends within corpora.</li>
   <li><strong><a href="https://learningtheunspoken.github.io">Audio-Based Intent Classifier</a></strong> – End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
@@ -28,10 +28,10 @@ Due to this, much of my work lives at the intersection of HuggingFace and PyTorc
 
 ---
 
-<h3>😄 Fun Facts</h3>
+<h3>Fun Facts</h3>
 <ul>
-  <li>🖐️ Left-handed</li>
-  <li>💻 Favorite editor: Vim</li>
+  <li>Left-handed</li>
+  <li>Favorite editor: Vim</li>
 </ul>
 
 ---

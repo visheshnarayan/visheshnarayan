@@ -5,7 +5,11 @@ Currently: Machine Learning Engineer @ Amazon Lab126 in Physical AI
 
 <h3>Publications</h3>
 <ul>
-  <li><strong>Sandhu, A., Narayan, V., Wajid, F., Agrawala, A.</strong> (2024). Temporal Analysis on Topics Using Word2Vec: Insights from Health and Sports News. <em>EAI PervasiveHealth</em>, Heraklion, Greece. <a href="https://doi.org/10.1007/978-3-031-85572-6_19">[DOI]</a></li>
+  <li><strong>Sandhu, A., Narayan, V., Wajid, F., Agrawala, A.</strong> (2024). Temporal Analysis on Topics Using Word2Vec: Insights from Health and Sports News. <em>EAI PervasiveHealth</em>, Heraklion, Greece.
+  <a href="https://doi.org/10.1007/978-3-031-85572-6_19">[DOI]</a></li>
+    <li><strong>Narayan, V., Wajid, F., Agrawala, A.</strong> (2026). Reliability Must Be a Protocol-Level Requirement of the Agentic Web. <em>Under Review at NeurIPS 2026</em>, San Diego, CA.</li>
+    <li><strong>Bykampadi, P. N., Mokaria, N., Narayan, V., Wajid, F., Agrawala, A.</strong> (2026). From Extraction to Governed Memory: Multi-Agent Knowledge Graph Construction with Domain-Expert Review. <em>Under
+   Review at NeurIPS 2026</em>, San Diego, CA.</li>
 </ul>
 
 <h3>Some of my projects I am kind of proud of:</h3>

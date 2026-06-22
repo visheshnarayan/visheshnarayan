@@ -1,25 +1,20 @@
 <h1 align="center">Hi, I'm Vishesh Gupta</h1>
 <h3 align="center">CS + Math + Quant @ UMD</h3>
 
----
 Currently: Machine Learning Engineer @ Amazon Lab126 in Physical AI
----
 
 <h3>Publications</h3>
 <ul>
   <li><strong>Sandhu, A., Narayan, V., Wajid, F., Agrawala, A.</strong> (2024). Temporal Analysis on Topics Using Word2Vec: Insights from Health and Sports News. <em>EAI PervasiveHealth</em>, Heraklion, Greece. <a href="https://doi.org/10.1007/978-3-031-85572-6_19">[DOI]</a></li>
 </ul>
 
----
-
-<h3>Projects Worth Peeking At 👁️</h3>
+<h3>Some of my projects I am kind of proud of:</h3>
 <ul>
-  <li><strong><a href="https://github.com/visheshnarayan/trends-demo">Temporal Trend Modeling using Word2Vec</a></strong> – Demo website for the methodology proposed in "Temporal Trends Analysis using Word2Vec" paper to analyze temporal trends within corpora.</li>
-  <li><strong><a href="https://learningtheunspoken.github.io">Audio-Based Intent Classifier</a></strong> – End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
-  <li><strong><a href="https://github.com/visheshnarayan/oil-futures-event-arbitrage">Soccer x Oil Arbitrage Strategy</strong> – Used Saudi club trades as predictive signals for oil futures, exploiting pricing inefficiencies with anomaly detection.</li>
+  <li><strong><a href="https://github.com/visheshnarayan/micrograd-jit">Autograd JIT Compiler</a></strong>: Reverse-mode autodiff engine with a tracing JIT compiler implementing core ideas behind torch.compile and JAX's jit.</li>
+  <li><strong><a href="https://github.com/visheshnarayan/trends-demo">Temporal Trend Modeling using Word2Vec</a></strong>: Demo website for the methodology proposed in "Temporal Trends Analysis using Word2Vec" paper to analyze temporal trends within textual corpora utilizing relational embeddings.</li>
+  <li><strong><a href="https://learningtheunspoken.github.io">Audio-Based Intent Classifier</a></strong>: End-to-end ML pipeline on nonverbal autism audio, winning 1st place in a 500+ person data science competition.</li>
+  <li><strong><a href="https://github.com/visheshnarayan/oil-futures-event-arbitrage">Soccer x Oil Arbitrage Strategy</strong>: Used Saudi club trades as predictive signals for oil futures, exploiting pricing inefficiencies with anomaly detection.</li>
 </ul>
-
----
 
 <h3>Fun Facts</h3>
 <ul>
@@ -27,9 +22,7 @@ Currently: Machine Learning Engineer @ Amazon Lab126 in Physical AI
   <li>Favorite editor: Vim</li>
 </ul>
 
----
-
-<h3>📫 Contact Me</h3>
+<h3>Contact Me</h3>
 <p>Email: <strong>visheshng24@gmail.com</strong></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/visheshng/">linkedin.com/in/visheshng</a></p>
 <p>GitHub: <a href="https://github.com/visheshnarayan">github.com/visheshnarayan</a></p>

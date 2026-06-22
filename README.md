@@ -1,15 +1,8 @@
 <h1 align="center">Hi, I'm Vishesh Gupta</h1>
-<h3 align="center">CS + Mathematics + Computational Finance student @ UMD</h3>
+<h3 align="center">CS + Math + Quant @ UMD</h3>
 
 ---
-
-<h3>About Me</h3>
-<p>
-I am a CS and Mathematics undergraduate at the University of Maryland, College Park. I specialize in machine learning, specifically in the NLP domain. 
-<p>
-Due to this, much of my work lives at the intersection of HuggingFace and PyTorch (figuring out which version of PyTorch is compatible with my packages 🤗) 
-</p>
-
+Currently: Machine Learning Engineer @ Amazon Lab126 in Physical AI
 ---
 
 <h3>Publications</h3>
